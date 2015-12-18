@@ -1,7 +1,7 @@
 name: sofamouse
 favicon: null
-layout_spectrum: 0.9878443912602961
-typography_spectrum: 0.9150502060074359
+layout_spectrum: 0.32356
+typography_spectrum: 0.4326
 title: Sofa Mouse
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7842209292575717
-  lightness: 0.12821896420791745
-  saturation: 0.8966692425310612
-  rhythmicContrast: 0.840616846922785
+    - '#000000'
+    - '#525e6a'
+    - '#212e37'
+    - '#374756'
+    - '#747f47'
+  brandStrength: 0.6875
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
