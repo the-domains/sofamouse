@@ -4,7 +4,7 @@
         <description><![CDATA[Sofa Mouse]]></description>
         <link>https://thegrid.ai/sofamouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 01:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 01:24:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sofamouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cool girls 1979]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/sofamouse/cool-girls-1979/index.html</link>
             <guid isPermaLink="false">1d609a22-b88d-4f21-88a6-4f17823b1335</guid>
             <pubDate>Sat, 19 Mar 2016 01:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parker's photo]]></title>
+            <description><![CDATA[<article><h1>Parker's photo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af242df3-f62b-43e6-87d3-70fea7ed77ac.png"></article>]]></description>
+            <link>https://thegrid.ai/sofamouse/parkers-photo/index.html</link>
+            <guid isPermaLink="false">47f6579f-c497-4320-a133-2f722cc26e61</guid>
+            <pubDate>Sat, 19 Mar 2016 01:24:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
