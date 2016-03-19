@@ -1,16 +1,16 @@
 title: Sofa Mouse
 cta:
-  domain: null
-  version: null
   bucket: null
-layout_spectrum: 0.387234
+  version: null
+  domain: null
+layout_spectrum: 0.1914894
 favicon: null
 name: sofamouse
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
