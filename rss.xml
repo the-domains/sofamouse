@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sofa Mouse]]></title>
         <description><![CDATA[Sofa Mouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sofamouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 01:12:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 01:12:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sofamouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cool girls 1979]]></title>
-            <description><![CDATA[<article><h1>Cool girls 1979</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28d319dc-df7e-4b53-9ff7-63abbbbe5685.png"></article>]]></description>
-            <link>undefinedcool-girls-1979/index.html</link>
+            <description><![CDATA[<article><h1>Cool girls 1979</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dbe4e25fe23c6bee6dece4405525e85d9e68267.png"></article>]]></description>
+            <link>https://thegrid.ai/sofamouse/cool-girls-1979/index.html</link>
             <guid isPermaLink="false">1d609a22-b88d-4f21-88a6-4f17823b1335</guid>
-            <pubDate>Sat, 19 Mar 2016 01:10:53 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 01:12:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
