@@ -1,29 +1,41 @@
-name: sofamouse
-favicon: null
-layout_spectrum: 0.59726
-typography_spectrum: 0.3368
 title: Sofa Mouse
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: sofamouse
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.6875
+  saturation: 0.75
   brandColors:
     - '#000000'
     - '#525e6a'
     - '#212e37'
     - '#374756'
     - '#747f47'
-  brandStrength: 0.6875
   lightness: 0.1875
-  saturation: 0.75
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.3368
