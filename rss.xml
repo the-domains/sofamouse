@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sofa Mouse]]></title>
+        <description><![CDATA[Sofa Mouse]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 01:12:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cool girls 1979]]></title>
+            <description><![CDATA[<article><h1>Cool girls 1979</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28d319dc-df7e-4b53-9ff7-63abbbbe5685.png"></article>]]></description>
+            <link>undefinedcool-girls-1979/index.html</link>
+            <guid isPermaLink="false">1d609a22-b88d-4f21-88a6-4f17823b1335</guid>
+            <pubDate>Sat, 19 Mar 2016 01:10:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
