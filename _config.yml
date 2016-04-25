@@ -1,41 +1,41 @@
 title: Sofa Mouse
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.4283154
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#00B685'
+    - '#01363C'
+    - '#B62125'
+    - '#998E8C'
+  rhythmicContrast: 1
 cta:
-  domain: null
   version: null
   bucket: null
-layout_spectrum: 1
-favicon: null
-name: sofamouse
-purpose: []
+  domain: null
 analytics:
+  twitter: null
   facebook: null
   google: null
-  twitter: null
+name: sofamouse
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-color:
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#000001'
-    - '#90785B'
-    - '#6E641F'
-    - '#FBFAFB'
-    - '#ACE0FF'
 typography_spectrum: 0.3368
+layout_spectrum: 0.6469534
